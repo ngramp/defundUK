@@ -1,0 +1,6 @@
+[submodule "defundUk-svelte"]
+	path = defundUk-svelte
+	url = git@github.com:ngramp/defundUK-svelte.git
+[submodule "defund-go"]
+	path = defund-go
+	url = git@github.com:ngramp/defund-go.git
